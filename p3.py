@@ -67,26 +67,4 @@ btn_convert.pack(pady=10)
 lbl_result = Label(root, text="Result: --",)
 lbl_result.pack(pady=5)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
